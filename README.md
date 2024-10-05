@@ -1,8 +1,8 @@
-# #90DaysOfDevOps Challenge
+# #90_Days_Of_DevOps Challenge
 
 ## Learn, Upskill, Grow with the Community
 
-Join our DevOps community challenge starting on January 1st, 2023 and embark on a 90-day journey to become a better DevOps practitioner. This repository serves as an open invitation to all DevOps enthusiasts who are looking to enhance their skills and knowledge. By participating in this challenge, you will have the opportunity to learn from others in the community, collaborate with like-minded individuals, and ultimately strengthen your DevOps abilities.
+Join our DevOps community challenge starting on 5 oct 2024 and embark on a 90-day journey to become a better DevOps practitioner. This repository serves as an open invitation to all DevOps enthusiasts who are looking to enhance their skills and knowledge. By participating in this challenge, you will have the opportunity to learn from others in the community, collaborate with like-minded individuals, and ultimately strengthen your DevOps abilities.
 
 Let's come together to grow and achieve new heights in DevOps!
 
