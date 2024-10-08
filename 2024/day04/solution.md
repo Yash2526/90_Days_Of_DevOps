@@ -5,8 +5,8 @@ Task 1: Explain in your own words and with examples what Shell Scripting means f
 
 - Shell Script consist of a set of cammands to perform a task. It enables automation, simplifies tasks, and helps maintain consistency across various system.
 
-Example: Automating server setup
-![image]()
+Example:
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day04/Task_Images/Task01.png)
 
 Task 2: What is `#!/bin/bash`? Can we write `#!/bin/sh` as well?
 
@@ -17,11 +17,12 @@ Task 2: What is `#!/bin/bash`? Can we write `#!/bin/sh` as well?
 
 Task 3: Write a Shell Script that prints `I will complete #90DaysOfDevOps challenge`.
 
-![image]()
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day04/Task_Images/Task03.png)
 
 Task 4: Write a Shell Script that takes user input, input from arguments, and prints the variables.
 
-![image]()
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day04/Task_Images/Task4.png)
+
 Task 5: Provide an example of an If-Else statement in Shell Scripting by comparing two numbers.
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day04/image/task%205.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day04/Task_Images/Task05.png)
