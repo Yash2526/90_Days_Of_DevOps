@@ -2,7 +2,6 @@
 
 Below is the index of the incredible DevOps journey that awaits you:
 
-...
 
 ### 🌟 [Day 1-7 : Introduction to DevOps and Linux Basics](./2023/day01/)
 
