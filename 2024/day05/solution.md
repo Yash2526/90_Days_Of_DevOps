@@ -10,14 +10,14 @@
 
    **Answer**
    
-   ![image]()
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day05/Task_Images/p1.png)
 
 2. **Create a Script to Backup All Your Work:**
    - Backups are an important part of a DevOps Engineer's day-to-day activities. The video in the references will help you understand how a DevOps Engineer takes backups (it can feel a bit difficult but keep trying, nothing is impossible).
 
    **Answer**
    
-   ![image]()
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day05/Task_Images/p2.png)
   
 
 3. **Read About Cron and Crontab to Automate the Backup Script:**
@@ -25,7 +25,7 @@
 
    **Answer**
    
-   ![image]()   
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day05/Task_Images/p3.png)   
   
 
 4. **Read About User Management:**
@@ -34,6 +34,6 @@
 
    **Answer**
    
-   ![image]()
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day05/Task_Images/p4.png)
 
 
