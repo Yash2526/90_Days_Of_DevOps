@@ -14,7 +14,7 @@
    - Task: Change the user permissions of the file and note the changes after running `ls -ltr`.
 
    **Answer**
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task1.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%201.png)
 
 2. **Writing an Article:**
    - Write an article about file permissions based on your understanding from the notes.
@@ -54,18 +54,14 @@
    - Task: Create a directory and set specific ACL permissions for different users and groups. Verify the permissions using `getfacl`.
 
    **Answer**
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task3.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%203.png )
 
 4. **Additional Tasks:**
-   - **Task:** Create a script that changes the permissions of multiple files in a directory based on user input.
-
-   **Answer**
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task4.png)
 
    - **Task:** Write a script that sets ACL permissions for a user on a given file, based on user input.
 
    **Answer**
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task4-1.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%204.png)
 
 5. **Understanding Sticky Bit, SUID, and SGID:**
    - Read about sticky bit, SUID, and SGID.
@@ -76,19 +72,19 @@
 
    **Answer**
      - Sticky bit:
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task5.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%205.3.png)
      - SUID:
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task5-1.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%205.1.png)
      - SGID:
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task5-2.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%205.2.png)
 
 6. **Backup and Restore Permissions:**
    - Task: Create a script that backs up the current permissions of files in a directory to a file.
 
    **Answer**
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task6.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%206.1.png)
 
    - Task: Create another script that restores the permissions from the backup file.
 
    **Answer**
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day06/image/task6-1.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day06/Task_Images/Task%206.2.png)
