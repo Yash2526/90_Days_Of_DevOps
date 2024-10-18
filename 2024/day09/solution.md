@@ -14,7 +14,7 @@
 
    **Create a Folder And Make Some File**
 
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day09/image/task11.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day09/Task_images/Task%201.1.png)
 
       - Note:
          - First, check whether zip is installed or not.
@@ -26,20 +26,21 @@
 
    **Crontab Job Scheduling:**  
    
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day09/image/task2.png)  
       - Auto scheduling through `crontab job scheduling`:
         ```bash
-           * 1 * * * bash /root/backup.sh /root/datafile /root/backup 
+           * * * * * bash /home/ubuntu/90DaysOfDevOps/Day_9/backup.sh /home/ubuntu/Data /home/ubuntu/Backups
 
-   **It will take a backup every hour, and the oldest backups will be deleted, leaving only the latest three backups visible:**  
+   **It will take a backup every min, and the oldest backups will be deleted, leaving only the latest five backups visible:**  
    
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day09/image/task3.png)  
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day09/Task_images/Task%202.png)  
 
    **Bash Script:**
    
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day09/image/bash1.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day09/Task_images/Task%201.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day09/Task_images/Task%201.2.png)
+
 
    **Reference**  
    [TrainWithShubham - Production Backup Rotation | Shell Scripting For DevOps Engineer](https://youtu.be/PZYJ33bMXAw?si=Zb50P67x_F32ikeO)   
 
-   [LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
+
