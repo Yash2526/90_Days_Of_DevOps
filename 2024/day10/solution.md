@@ -28,7 +28,7 @@ Write a Bash script that automates the process of analyzing log files and genera
 
    - **First created a folder and then a log file.**
 
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day10/image/task1.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day10/Task_Images/Task%201.png)
 
    - **Bash Code for Reference.**
 
@@ -50,4 +50,3 @@ Write a Bash script that automates the process of analyzing log files and genera
 
 A sample log file named `sample_log.log` has been provided in the same directory as this challenge file. You can use this file to test your script or use [this](https://github.com/logpai/loghub/blob/master/Zookeeper/Zookeeper_2k.log)
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
