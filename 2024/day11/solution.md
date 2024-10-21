@@ -17,39 +17,39 @@ Understanding how to handle errors in shell scripts is crucial for creating robu
 
 **Answer**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day11/image/task1.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day11/Task_images/Task%201.png)
 
 ### Task 2: Using `if` Statements for Error Checking
 - Modify the script from Task 1 to include more commands (e.g., creating a file inside the directory) and use `if` statements to handle errors at each step.
 
 **Answer**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day11/image/task2.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day11/Task_images/Task%202.png)
 
 ### Task 3: Using `trap` for Cleanup
 - Write a script that creates a temporary file and sets a `trap` to delete the file if the script exits unexpectedly.
 
 **Answer**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day11/image/task3.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day11/Task_images/Task%203.png)
 
 ### Task 4: Redirecting Errors
 - Write a script that tries to read a non-existent file and redirects the error message to a file called `error.log`.
 
 **Answer**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day11/image/task4.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day11/Task_images/Task%204.png)
 
 ### Task 5: Creating Custom Error Messages
 - Modify one of the previous scripts to include custom error messages that provide more context about what went wrong.
 
 **Answer** 
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day11/image/task5.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day11/Task_images/Task%205.png)
 
    - **I also intentionally created an error by not creating the file, so it showed me this error. I did this for reference.**
 
-   ![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day11/image/task5ka1.png)
+   ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day11/Task_images/Task%205.1.png)
 
 ## Example Scripts
 
