@@ -55,40 +55,19 @@
 
 **Answer**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/set_user_name_and_email_address.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day12/Task_Images/Task%201.png)
 
 ### Task 2:
 - Create a repository named "DevOps" on GitHub.
 
-**Answer**
-
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/create_a_new_repository.png)
-
-- Connect your local repository to the repository on GitHub.
-
-**Answer**
-
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/connect_your_local_repository_to_the_repository_on_github.png)
-
 - Create a new file in Devops/Git/Day-12.txt & add some content to it.
-
-**Answer**
-
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/create_a_new_file.png)
 
 - Push your local commits to the repository on GitHub.
 
 **Answer**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/push_repository.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day12/Task_Images/Task%202.png)
 
 **After that if you check it on GitHub then it's output will look like this**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/gitui.png)
-
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/gitui1.png)
-
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day12/image/gitui2.png)
-
-
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day12/Task_Images/Task%203.png)
