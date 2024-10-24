@@ -48,7 +48,7 @@ For a better understanding of Git Rebase and Merge, check out this [article](htt
    - Update `version01.txt` with the following lines, committing after each change:
      - 1st line: `This is the bug fix in development branch`
        ```bash
-       echo "This is the bug fix in development branch" >> Devops/Git/version01.txt
+       echo "This is the bug fix in  development branch" >> Devops/Git/version01.txt
        git commit -am "Added feature2 in development branch"
        ```
      - 2nd line: `This is gadbad code`
