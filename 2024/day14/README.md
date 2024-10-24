@@ -25,7 +25,7 @@ For your reference, check out this [cheat sheet](https://education.github.com/gi
 
 ### Share Your Work
 
-Post your cheat sheet on LinkedIn and spread the knowledge. 😃
+Post your cheat sheet on LinkedIn and spread the knowledge.😃
 
 **Happy Learning! :)**
 

@@ -1,3 +1,4 @@
+
 # Day 14 Answers: Create a Linux & Git-GitHub Cheat Sheet
 
 ## Finally!! 🎉
@@ -77,5 +78,3 @@ Show us your knowledge mixed with your creativity 😎.
 ### Reference
 
 For your reference, check out this [cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf). However, ensure that your cheat sheet is unique.
-
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
