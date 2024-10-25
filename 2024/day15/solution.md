@@ -34,7 +34,8 @@ Python is an open-source, general-purpose, high-level, and object-oriented progr
 
 **Answer**
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day15/image/Installation_Python.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day15/Task_Image/Update%20the%20system.png)
+![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day15/Task_Image/Install_Python_3.6.3.png)
 
 ### 2. Read about different data types in Python.
    - Python supports several data types, which can be categorized as follows:
@@ -81,5 +82,3 @@ Python is an open-source, general-purpose, high-level, and object-oriented progr
 You can get the complete playlist [here](https://www.youtube.com/watch?v=abPgj_3hzVY&list=PLlfy9GnSVerS_L5z0COaF7rsbgWmJXTOM) 🙌
 
 **Happy Learning, Ruko Mat Phod do! 😃**
-
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/)
