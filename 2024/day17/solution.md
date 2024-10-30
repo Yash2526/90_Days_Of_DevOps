@@ -21,16 +21,12 @@ For more about Dockerfile, visit [here](https://rushikesh-mashidkar.hashnode.dev
 
 
 **2. Build the image using the Dockerfile and run the container**
-   - To build the Docker image, run the following command in the directory containing the Dockerfile:
+   - To build the Docker image, run the following command:
+   docker container run -d -p 3000:3000 yash2526/hey-nodejs:0.0.1.RELEASE 
 
       **Answer**
 
       ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day17/Task_images/Task%202.2.png)
-
-   - Run the Container
-      - To run the container, use the following command:
-
-      **Answer**
 
       ![image](https://github.com/Yash2526/90_Days_Of_DevOps/blob/master/2024/day17/Task_images/Task%202.3.png)
 
